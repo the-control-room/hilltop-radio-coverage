@@ -3,6 +3,8 @@
 Line-of-sight radio coverage over real terrain, written for a video by The Control Room about a
 private two-way radio network in Mexico.
 
+The video: https://www.youtube.com/watch?v=d_ldxFRyxxk
+
 A court record describes that network as hand-held radios linked by towers and repeaters. It gives
 no tower locations. So this code does not reconstruct the network. It answers a narrower question:
 **what does the terrain allow?** Every site in the output is picked by the code from elevation data
